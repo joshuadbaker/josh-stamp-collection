@@ -1,6 +1,6 @@
 Josh's Stamp Collection App
 ---
 
-# About
+# About Josh's Stamps
 
-Stuff about Josh's Stamps here
+Josh has been collecting stamps since 1981.  He has an extensive and exotic collection of chinese stamps.
